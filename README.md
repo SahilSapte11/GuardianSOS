@@ -1,20 +1,18 @@
-# Women Safety Application
-## _Feel Safe Everywhere_
+# GuardianSOS andriod application 
+## _Ensuring Safety Everywhere_
 
 
-Women Safety App is user friendly application built in Android Studio,
-it is simple to implement,easy to understand.
+GuardianSOS App is a user-friendly application developed in Android Studio. It boasts simplicity in implementation and ease of understanding.
 
 
 
 
 ## Features
 
-- Easy to implement
-- Easy to understand
-- Shake detector
-- Shake device to send SOS to registered mobile
-- Sends Last Known Location to registered mobile
+- User-Friendly Implementation: Easy to implement and understand.
+- Shake Detection: Shake your device to send an SOS to registered contacts.
+- Location Sharing: Automatically sends the last known location to registered contacts in case of emergency.
+
 
 #### Prerequisites :
 - Android Studio
